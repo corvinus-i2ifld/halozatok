@@ -1,0 +1,20 @@
+﻿body {
+     background-color: lemonchiffon;
+}
+span {
+    font-weight: bold;
+    font-style: italic;
+    color: fuchsia;
+    font-size: 30px;
+}
+#listák {
+    font-weight: bold;
+    font-style: italic;
+    color: fuchsia;
+}
+div {
+    margin: 10px;
+    padding: 20px;
+    border: 3px dotted red;
+    border-radius: 15px;
+}
